@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushijaiswa
+- 👋 Hi, I’m @Ayushijaiswal
 - 👀 I’m interested in .web development..
 - 🌱 I’m currently learning ...webdevelopment
 - 💞️ I’m looking to collaborate on ...frontend web developer
